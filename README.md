@@ -40,6 +40,8 @@
 **PowerBI**
 [![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=Power%20BI&logoColor=black&link=https://powerbi.microsoft.com/ "Power BI")](https://powerbi.microsoft.com/)
 
+**VS CODE**
+[![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white&link=https://code.visualstudio.com/ "VS Code")](https://code.visualstudio.com/)
 
 
 **Version Control:**
