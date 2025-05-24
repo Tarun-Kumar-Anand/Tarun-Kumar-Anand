@@ -6,9 +6,9 @@
 > "What’s a data analyst’s favorite type of music?
 Algo-rhythm. 🕺📈
 
-Okay another one
+"Okay another one
 
-Why did Power BI get kicked out of the meeting?
+"Why did Power BI get kicked out of the meeting?
 Because it kept showing everyone’s true performance with no filters! 😬📊
 
 ---
@@ -39,12 +39,10 @@ Because it kept showing everyone’s true performance with no filters! 😬📊
 ### Tools
 
 
-**SDLC**
-[![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/Quananhle "Agile")](https://github.com/Quananhle) [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/Quananhle) [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/Quananhle "Kanban")](https://github.com/Quananhle)
+**PowerBI**
+[![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=Power%20BI&logoColor=black&link=https://powerbi.microsoft.com/ "Power BI")](https://powerbi.microsoft.com/)
 
-**Software Engineering:**
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
+
 
 **Version Control:**
  
