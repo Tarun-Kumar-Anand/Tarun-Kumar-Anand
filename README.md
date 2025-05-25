@@ -1,10 +1,12 @@
 <div align="center"> 🚀 Welcome to My House :japanese_castle:</div>
 
 ---
-### :volcano: Funny Jokes
+### :volcano: Here's a Joke
 
 > **What’s a data analyst’s favorite type of music?**  
 > Algo-rhythm. 🕺📈
+
+### Okay Another One
 
 > **Why did Power BI get kicked out of the meeting?**  
 > Because it kept showing everyone’s true performance — with no filters! 😬📊
