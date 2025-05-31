@@ -66,10 +66,9 @@
 
  ---
 ### 📫 Get In Touch
-<!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/tarun-kumar-anand10/)-->
-<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
-&nbsp; &nbsp;
-;
+<a href="https://www.linkedin.com/in/tarun-kumar-anand10/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="LinkedIn Profile">
+</a>
  
 ⭐️ From [Tarun](https://github.com/Tarun-Kumar-Anand) with :sparkling_heart: 
 <img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
